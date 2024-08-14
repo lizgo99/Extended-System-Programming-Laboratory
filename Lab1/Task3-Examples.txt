@@ -1,0 +1,251 @@
+RUN #1
+
+Please choose a function (ctrl^D for exit):
+0)  Get string
+1)  Print string
+2)  Encrypt
+3)  Decrypt
+4)  Print Hex
+Option : 0
+
+Within bounds
+1234
+DONE.
+
+Please choose a function (ctrl^D for exit):
+0)  Get string
+1)  Print string
+2)  Encrypt
+3)  Decrypt
+4)  Print Hex
+Option : 1
+
+Within bounds
+1
+2
+3
+4
+.
+DONE.
+
+Please choose a function (ctrl^D for exit):
+0)  Get string
+1)  Print string
+2)  Encrypt
+3)  Decrypt
+4)  Print Hex
+Option : 4
+
+Within bounds
+31 
+32 
+33 
+34 
+.
+DONE.
+
+Please choose a function (ctrl^D for exit):
+0)  Get string
+1)  Print string
+2)  Encrypt
+3)  Decrypt
+4)  Print Hex
+Option : 2
+
+Within bounds
+DONE.
+
+Please choose a function (ctrl^D for exit):
+0)  Get string
+1)  Print string
+2)  Encrypt
+3)  Decrypt
+4)  Print Hex
+Option : 1
+
+Within bounds
+4
+5
+6
+7
+.
+DONE.
+
+Please choose a function (ctrl^D for exit):
+0)  Get string
+1)  Print string
+2)  Encrypt
+3)  Decrypt
+4)  Print Hex
+Option : 4
+
+Within bounds
+34 
+35 
+36 
+37 
+.
+DONE.
+
+Please choose a function (ctrl^D for exit):
+0)  Get string
+1)  Print string
+2)  Encrypt
+3)  Decrypt
+4)  Print Hex
+Option : 3
+
+Within bounds
+DONE.
+
+Please choose a function (ctrl^D for exit):
+0)  Get string
+1)  Print string
+2)  Encrypt
+3)  Decrypt
+4)  Print Hex
+Option : 1
+
+Within bounds
+1
+2
+3
+4
+.
+DONE.
+
+Please choose a function (ctrl^D for exit):
+0)  Get string
+1)  Print string
+2)  Encrypt
+3)  Decrypt
+4)  Print Hex
+Option : 
+<HERE THE USER TERMINATED WITH CTRL-D (note <this> message is not printed>
+
+
+
+RUN #2
+
+Please choose a function (ctrl^D for exit):
+0)  Get string
+1)  Print string
+2)  Encrypt
+3)  Decrypt
+4)  Print Hex
+Option : 0
+
+Within bounds
+HEY!
+DONE.
+
+Please choose a function (ctrl^D for exit):
+0)  Get string
+1)  Print string
+2)  Encrypt
+3)  Decrypt
+4)  Print Hex
+Option : 1
+
+Within bounds
+H
+E
+Y
+!
+.
+DONE.
+
+Please choose a function (ctrl^D for exit):
+0)  Get string
+1)  Print string
+2)  Encrypt
+3)  Decrypt
+4)  Print Hex
+Option : 4
+
+Within bounds
+48 
+45 
+59 
+21 
+.
+DONE.
+
+Please choose a function (ctrl^D for exit):
+0)  Get string
+1)  Print string
+2)  Encrypt
+3)  Decrypt
+4)  Print Hex
+Option : 2
+
+Within bounds
+DONE.
+
+Please choose a function (ctrl^D for exit):
+0)  Get string
+1)  Print string
+2)  Encrypt
+3)  Decrypt
+4)  Print Hex
+Option : 1
+
+Within bounds
+K
+H
+\
+$
+.
+DONE.
+
+Please choose a function (ctrl^D for exit):
+0)  Get string
+1)  Print string
+2)  Encrypt
+3)  Decrypt
+4)  Print Hex
+Option : 4
+
+Within bounds
+4B 
+48 
+5C 
+24 
+.
+DONE.
+
+Please choose a function (ctrl^D for exit):
+0)  Get string
+1)  Print string
+2)  Encrypt
+3)  Decrypt
+4)  Print Hex
+Option : 3
+
+Within bounds
+DONE.
+
+Please choose a function (ctrl^D for exit):
+0)  Get string
+1)  Print string
+2)  Encrypt
+3)  Decrypt
+4)  Print Hex
+Option : 1
+
+Within bounds
+H
+E
+Y
+!
+.
+DONE.
+
+Please choose a function (ctrl^D for exit):
+0)  Get string
+1)  Print string
+2)  Encrypt
+3)  Decrypt
+4)  Print Hex
+Option :
+<HERE THE USER TERMINATED WITH CTRL-D (note <this> message is not printed>
